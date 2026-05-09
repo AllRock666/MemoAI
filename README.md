@@ -255,7 +255,7 @@ CHROMA_PORT=8000
 
 ## 👥 Team
 
-Built at [Hackathon Name] · May 2024
+Built at HackArena· May 2026
 
 ---
 
